@@ -1,4 +1,4 @@
-## Drama11 - Social Awareness
+## Social Awareness
 Drama11 is a frontend mini-project built using HTML, Tailwind CSS and JavaScript.  This website was designed to create awareness about the negative impacts of gambling and betting on individuals and society.
 
 [![Project Link](https://img.shields.io/badge/Project%20Link-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama-11.web.app/)
